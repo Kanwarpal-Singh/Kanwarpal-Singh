@@ -15,9 +15,8 @@ I am Kanwapal Singh, currently pursuing my Bachelor's in Information Technology 
 * 🌱 I’m currently learning Python and Javascript.
 * 🤔 I’m looking for help with some hilarious doubts.
 * 💬 Ask me about: tech, music, tv shows, and books.
-* 📫 How to reach me: aniruddhupadhyay07@gmail.com
+* 📫 How to reach me: kanwarpalsingh586@gmail.com
 * 🥅 2022 Goals: To learn as much as I can.
-* 🕸 CV Website <a href="https://aniruddh-482.github.io/CV/">here</a>
 
 ### 🚀Languages and Tools
 <code><img height="40" src="/My_Assets/Languages/html5_logo.png"></code>&nbsp;
