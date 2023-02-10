@@ -4,9 +4,7 @@
 
 I am Kanwapal Singh, currently pursuing my Bachelor's in Information Technology from [Shri Vaishnav Vidyapeeth Vishwavidyalaya](https://www.svvv.edu.in/UserPanel/Default.aspx), Indore. I am a Tech enthusiast, developer & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
----
 
-![Aniruddh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Aniruddh-482&hide_border=true&theme=redical)
 
 ---
 
