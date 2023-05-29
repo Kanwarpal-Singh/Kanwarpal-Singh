@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 Aspiring Node js developer || Backend Developer || Javascript developer || Mongo developer || Express developer.<br>
-🔭 I’m currently working on Full Stack Web Development <br>👯 I’m learning Nodejs Backend<br>🤝 I have done 4 projects from scratch Booking.com, Mytheresa.com, carter's.com, Tripadvisior.com <br>🌱 I m enhancing my skills with masai school. <br>
+🔭 A Hard-working, disciplined, self-motivated, and ambitious Full Stack Web Developer. Problem-solving mindset and the ability to perform well in group and individual capacities. 500+ hours of coding experience. looking forward to working as an accountable employee in an exciting tech company.<br>
+🔭 Worked on more than 15 mini and full Team and Solo Projects<br>
+🌱 I'm enhancing my skills with masai school. <br>
 🔭 More about me => https://Kanwarpal-Singh.github.io
 
 
